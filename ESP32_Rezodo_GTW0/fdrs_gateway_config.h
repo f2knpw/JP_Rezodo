@@ -83,5 +83,5 @@
 #define MQTT_ADDR   "192.168.0.48" //homeassistant.local
 #define MQTT_PORT   1883 // Default MQTT port is 1883
 #define MQTT_AUTH   //Enable MQTT authentication
-#define MQTT_USER   "MQTT_access"
-#define MQTT_PASS   "JP"
+#define MQTT_USER   "YOUR_MQTT_access"
+#define MQTT_PASS   "Your_Password"
